@@ -2,7 +2,7 @@
 <!DOCTYPE HTML >
 <html>
 	<head>
-		<title>淘淘网—开心淘</title>
+		<title>淘淘网—ssss开心淘</title>
 		<link rel="stylesheet" type="text/css" href="css/styles.css">
 	</head>
 
